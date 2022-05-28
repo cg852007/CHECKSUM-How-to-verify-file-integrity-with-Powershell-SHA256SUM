@@ -1,4 +1,4 @@
-<h1>CHECKSUM - How to verify file integrity with Powershell SHA256SUM</h1>
+<h1>CHECKSUM - How to verify file integrity with Powershell SHA256sum</h1>
 
  ### [YouTube Demonstration](https://youtube.com)
 
