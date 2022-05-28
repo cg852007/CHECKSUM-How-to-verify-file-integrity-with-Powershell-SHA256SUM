@@ -1,6 +1,6 @@
 <h1>CHECKSUM - How to verify file integrity with Powershell SHA256sum</h1>
 
- ### [YouTube Demonstration](https://youtube.com)
+ ### [YouTube Demonstration](https://youtu.be/sGvETsRtZCs)
 
 <h2>Description</h2>
 You can verify the hash of the file you are downloading. This is how you make sure you are actually downloading what you think you're downloading and can verify the file was not altered. It is always a good idea to verify the integrity of a file.
