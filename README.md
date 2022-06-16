@@ -41,6 +41,9 @@ You can verify the hash of the file you are downloading. This is how you make su
 <br />
 6. You can copy (ctrl+c) and paste the hash from the Kali website into the next command line to make it easier to compare. Normally if the hashes do not match then it will be obvious. There will be a bunch of different letters and numbrs. So don't worry about trying to find only one different character. <br/>
 <img src="https://imgur.com/EKvo3YZ.png" height="80%" width="80%" alt="Template"/>
+<br />
+<br />
+Or... you can copy the hash and go to the site and use ctrl F to search for that hash.
 </p>
 
 <!--
